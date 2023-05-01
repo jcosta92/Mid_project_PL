@@ -104,3 +104,9 @@ Data visualization was done by Tableau Public, under the following link:
 https://public.tableau.com/views/midproject_16826138070510/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 The pngs images used are in this repository under the folder "pngs".
+
+## 5. Conclusion
+- For the main data of roughly 4 seasons, the accuracy of W/L/D was of 82%.
+- For the last season of data, of 101 games with prediction to Win or Loose, if we had betted on the respective prediction (W/L) + D (Draw) we would have won 85% of the bets, roughly 85 bets in this case.
+- Regarding the data model, it needs to be further analysed because there may be too much accuracy in the seasons until 2021/22, maybe due to the X being that data. Nevertheless for the football stats only the mean averages of previous games were used.
+- About the data analysis of the results with weather conditions, it vary in some clubs and might be usefull for themselves.
