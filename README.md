@@ -101,7 +101,7 @@ All the functions used in it are saved on the "functions" folder.
 
 ## 4. Data visualization
 Data visualization was done by Tableau Public, under the following link:
-https://public.tableau.com/views/midproject_16826138070510/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/midproject_16826138070510/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/midproject_16826138070510/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 The pngs images used are in this repository under the folder "pngs".
 
